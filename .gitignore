@@ -1,0 +1,5 @@
+*.pkl
+Project/Data Reciever/ processed_features.csv
+Project/preddiction_results.csv
+Project/Data Reciever/ .env.weather
+.idea/
